@@ -9,6 +9,7 @@ public class Distance {
 		this.from=from;
 		this.to=to;
 		this.distance=distance;
+		//
 	}
 	public String getFrom() {
 		return from;
